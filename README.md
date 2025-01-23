@@ -44,8 +44,11 @@ project-folder/
 - **Character Animation**: The character moves across the screen and reverses direction seamlessly.
 - **Transitions**: Smooth hover effects for buttons and links.
 
-## Screenshots
-![Screenshot of the Login Page](placeholder_for_screenshot)
+## Demo
+
+
+https://github.com/user-attachments/assets/7b516d5d-b058-457c-bbfc-bbd05069f61d
+
 
 ## Skills Demonstrated
 - Mastery of **CSS animations** and keyframe techniques.
